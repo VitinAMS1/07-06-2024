@@ -1,0 +1,119 @@
+
+body{
+    font-family: 'Krona One', sans-serif;
+    background-color: #f0f0f0;
+}
+
+
+.h1{
+    text-align: center;
+background-color: rgba(255, 255, 0, 0.377);
+color:rgba(255, 0, 0, 0.795);
+}
+
+.h1s{
+
+    color:rgba(255, 0, 0, 0.795);
+
+
+}
+.h1ss{
+    color:rgba(255, 68, 0, 0.712);
+}
+.div{
+    text-align: center;
+}
+
+
+.divv{
+text-align: center;
+color: black;
+
+
+}
+.h3{
+    color:rgba(255, 68, 0, 0.712);
+    text-align: center;
+    align-items: center;
+}
+
+
+.divv{
+text-align: center;
+
+}
+.h4{
+    color:rgba(255, 68, 0, 0.712);
+    text-align:center;
+}
+ .ul{
+    color:rgba(255, 68, 0, 0.712);
+    text-align: start;
+ }
+.divvv{
+color: black;
+display: flex;
+}
+.li{
+    color:rgba(255, 68, 0, 0.712);
+    background-color: rgba(255, 255, 255, 0.493);
+
+    }
+.main_doiss{
+   display: flex;
+   justify-content: space-between;
+}
+.img{
+ padding: 5% 1%;
+}
+.imgg{
+    text-align: end;
+}
+.h1sss{
+    text-align: start;
+    color:rgba(255, 68, 0, 0.712);
+    background-color:#f0f0f0;
+}
+.reed{
+    color: rgba(255, 0, 0, 0.637);
+}
+.h5{
+    color: rgba(255, 0, 0, 0.637); 
+}
+.div_dois{
+    display: flex;
+
+}
+.h1_tres{
+    color:rgba(255, 68, 0, 0.712);
+    text-align: center;
+}
+.h3_tres{
+    color:rgba(255, 68, 0, 0.712);
+    padding:0% 1%;
+}
+.div_tres{
+ display: flex;
+
+ }
+ .h33_tres{
+    padding:0% 1%;
+color:rgba(255, 68, 0, 0.712);
+ }
+ .h333_tres{
+    padding:0% 1%;
+    color:rgba(255, 68, 0, 0.712);
+ }
+ .h3333_tres{
+    padding:0% 1%;
+color:rgba(255, 68, 0, 0.712);
+ }
+ .h33333_tres{
+    padding:0% 1%;
+color:rgba(255, 68, 0, 0.712);
+ }
+.final{
+    background-color: rgba(255, 255, 0, 0.377);
+    color:rgba(255, 0, 0, 0.795);
+    text-align: center;
+}
